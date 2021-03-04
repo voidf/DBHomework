@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pyjwt
+mongoengine
+python-multipart
+ujson
